@@ -1,0 +1,79 @@
+.navbar{
+    background-color: black !important;
+}
+.navbar li:hover{
+    color: black !important;
+    background-color: #FF151C;
+    border-radius: 10px;
+}
+.navbar a{
+    color: azure !important;
+}
+.lineaCartas{
+    margin: 30px 40px;
+}
+#carrusel{
+    border-top: 3px solid red;
+    border-bottom: 3px solid red;
+}
+
+
+#titulo{
+    padding-top: 40px;
+}
+#titulo h3{
+    color: white;
+    margin-left: 40px;
+    border-left: 5px solid #FF151C;
+    padding-left: 10px;
+}
+#principal{
+    background-color: black;
+    margin: 0 !important;
+    padding: 0;
+    padding-bottom: 60px;
+}
+.col-md-4 img{
+    padding: 0;
+}
+.col-md-8{
+    width: 215px;
+}
+.card{
+    margin-top: 15px;
+    border-radius: 10px;
+    border: 1px solid red;
+    overflow: hidden;
+    transition: all ease-out 0.1s;
+}
+.card:hover{
+    transform: scale(1.05);
+}
+.btn{
+    background-color: red;
+    color: white;
+}
+.btn:hover{
+    background-color: red;
+    color: white;
+}
+#navbarNav ul li{
+    margin-left: 30px;
+}
+#navbarNav ul li a{
+    font-size: 18px;
+}
+/*CSS PARA EL FORMULARIO*/
+#principalFormulario{
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+#formulario{
+    background-color: white;
+    margin: 0 20px;
+    border: 3px solid red;
+    border-radius: 50px;
+}
+#formulario form{
+    padding: 50px 20px;
+}

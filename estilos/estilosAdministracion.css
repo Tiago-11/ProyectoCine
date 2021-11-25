@@ -1,0 +1,54 @@
+.navbar{
+    background-color: black !important;
+}
+.navbar li:hover{
+    color: black !important;
+    background-color: #FF151C;
+    border-radius: 10px;
+}
+.navbar a{
+    color: azure !important;
+}
+#navbarNav ul li{
+    margin-left: 30px;
+}
+#navbarNav ul li a{
+    font-size: 18px;
+}
+#administracion{
+    margin: 20px 30px;
+}
+ul{
+  list-style: none;
+}
+h4{
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+#administracion button{
+    background-color: #383838;
+    border: 0;
+}
+#administracion button:hover{
+    background-color: #000000;
+}
+#administracion .col-lg-6{
+    margin-right: 10px;
+    padding: 0;
+    width: 400px;
+    display: inline-block;
+}
+#administracion .col-lg-6 button{
+    background-color: red;
+    margin-right: 10px;
+}
+#administracion .col-lg-6 button:hover{
+    background-color: #870000;
+}
+h3{
+    margin: 20px 0px;
+    text-align: center;
+}
+.col-sm-6{
+    display: inline-block;
+}

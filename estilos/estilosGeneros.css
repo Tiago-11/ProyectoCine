@@ -1,0 +1,53 @@
+.navbar{
+    background-color: black !important;
+}
+.navbar ul{
+    margin-left: 10px;
+}
+.navbar li:hover{
+    color: black !important;
+    background-color: #FF151C;
+    border-radius: 10px;
+}
+.navbar a{
+    color: azure !important;
+}
+#navbarNav ul li{
+    margin-left: 30px;
+}
+#navbarNav ul li a{
+    font-size: 18px;
+}
+#titulo h3{
+    margin: 30px 25px;
+    padding-left: 10px;
+    border-left: 4px solid red;
+}
+#cartas .lineaCartas{
+    margin: 30px 25px;
+}
+#cartas .lineaCartas .col-md-4{
+    width: 150px;
+    height: 217px;
+}
+#cartas img{
+    width: 600px;
+}
+.peliculasGenero{
+    width: 1250px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.peliculasGenero img{
+    height: 100%;
+}
+.row ul{
+    list-style: none;
+    padding: 0;
+}
+.row .card-body{
+    margin-left: 15px;
+}
+.row .col-lg-3{
+    padding: 0;
+}
